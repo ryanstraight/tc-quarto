@@ -1,0 +1,23 @@
+.banner {
+  background-color: #9EABAE !important;
+  background-image: url(assets/banner.png) !important;
+  background-repeat: no-repeat !important;
+  background-size: 35% !important;
+  background-position: right 5% top 5% !important;
+}
+
+
+/* Make attribution text smaller */
+.attribution{
+  font-size: 0.3em !important;
+}
+
+.reveal .quarto-title-block .quarto-title-authors .quarto-title-author .quarto-title-author-name {
+    margin-bottom: .8rem;
+    margin-top: 2em;
+    font-weight: bold;
+}
+
+.r-fit-text {
+  text-transform: uppercase !important;
+}

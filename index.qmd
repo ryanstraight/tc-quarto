@@ -1,0 +1,484 @@
+---
+title: |
+    <img align="center" width="75%" src="assets/banner.png">
+subtitle: |
+    <span style="font-size: 125%">Quarto for Scholarly Writing</span><br />Technology Committee Professional Development<br />
+    <strong>November 14, 2023</strong>
+pagetitle: "Quarto PD"
+doi: "10.17605/OSF.IO/BZVPN"
+     
+author: "Ryan Straight, Ph.D"
+institute: "College of Applied Science and Technology<br />University of Arizona"
+
+execute:
+  eval: true
+  cache: false
+  message: false
+  include: true
+  error: false
+
+format:
+  revealjs:
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    progress: true
+    controls: true
+    embed-resources: false
+    standalone: false
+    theme: simple
+    controls-tutorial: true
+    touch: true
+    show-slide-number: print
+    email-obfuscation: javascript
+    multiplex: true
+
+revealjs-plugins:
+  - attribution
+  
+# citation:
+#   type: webpage
+#   author: Ryan Straight
+#   title: "An Introduction to Quarto for Scholarly Writing"
+#   abstract: "A demonstration provided to the University of Arizona's College of Applied Science and Technology from the college's technology committee."
+#   event: "2023-24 Technology Committee"
+#   doi: "10.17605/OSF.IO/BZVPN"
+#   url: https://ryanstraight.github.io/tc-quarto/
+
+# google-scholar: true
+
+toc: false
+slide-number: false
+number-sections: false
+logo: "assets/banner.png"
+footer: "Dr. Ryan Straight -- ryanstraight&commat;arizona.edu -- &commat;ryanstraight&commat;hci.social"
+bibliography: refs.bib
+csl: apa.csl
+css: style.css
+---
+
+##  {#splash data-menu-title="Stand By" background-video="assets/standby.webm" background-video-loop="true" background-video-muted="true"}
+
+#  {#lets-get-started data-menu-title="Let's Get Started" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Let's Get Started]{.r-fit-text}
+
+## The Plan for Today {.smaller}
+
+::: columns
+::: {.column width="65%"}
+Follow along with this slide deck at:
+
+{{< qrcode https://ryanstraight.github.io/tc-quarto/index.html qr3 width=200 height=200 >}}
+
+<https://ryanstraight.github.io/tc-quarto/>
+:::
+
+::: {.column width="35%"}
+![](assets/agenda.jpeg)
+:::
+:::
+
+
+::: attribution
+Images via [Adobe Firefly](https://firefly.adobe.com).
+:::
+
+::: notes
+:::
+
+#  {#quarto data-menu-title="Quarto" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Quarto]{.r-fit-text}
+
+## What is Quarto? {#sec-whatisquarto .smaller}
+
+::: columns
+::: {.column width="35%"}
+-   Description
+-   Scholarly relevance
+-   Quarto's evolution
+:::
+
+::: {.column width="65%"}
+```{r}
+#| echo: fenced
+#| label: fig-mtcars
+#| fig-cap: A scatterplot rendered on-the-fly.
+plot(mtcars$mpg)
+```
+:::
+:::
+
+::: attribution
+<!--# All images via [dream.ai](https://dream.ai) and [DALL-E 3](https://openai.com). -->
+:::
+
+::: notes
+:::
+
+## Quarto vs. Traditional Tools
+
+::: columns
+::: {.column width="65%"}
+-   Data integration
+-   Dynamic content
+-   Output versatility
+:::
+
+::: {.column width="35%"}
+![](assets/vs.jpg)
+:::
+:::
+
+::: attribution
+Images via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+
+### Human Services
+
+Data-Driven Reports and Policy Papers:
+
+Professionals in human services often deal with data related to social issues, demographics, and service outcomes. Quarto can be used to integrate this data directly into reports and policy papers. For example, a report on community health outcomes could include live-updated graphs and charts.
+
+
+Case Study Documentation:
+
+Case studies are a crucial part of human services education and practice. Quarto allows for the integration of qualitative data, such as interview transcripts or field notes, alongside quantitative data. This feature supports a more holistic and nuanced presentation of case studies.
+
+
+Educational Materials and Training Guides:
+
+Quarto’s flexibility in output formats (like slides, PDFs, and web pages) makes it ideal for creating diverse educational materials. Training guides for new social work methodologies or community engagement strategies can be crafted with rich multimedia content.
+
+### Organizational Leadership
+
+Organizational Analysis and Strategy Documents:
+
+Leaders often need to analyze organizational data like employee performance metrics, market analysis, or financial reports. Quarto can embed these data analyses directly into strategic documents, enabling dynamic and data-informed leadership decision-making.
+
+Training and Development Materials:
+
+For leadership training programs, Quarto can be used to create interactive training materials. It can combine theoretical content with real-world data, helping to bridge the gap between theory and practice.
+
+Internal Communications and Presentations:
+
+Quarto's versatility in creating slides and reports is beneficial for internal communication. Leaders can use it to present complex organizational data in an easily digestible format, enhancing transparency and informed decision-making within the organization.
+
+:::
+
+#  {#academic data-menu-title="Academic Applications" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Academic Applications]{.r-fit-text}
+
+## Data visualization {.smaller}
+
+Visualizations are rendered in the Quarto document, not pre-rendered, saved, and loaded.
+For example, @fig-airquality below.
+
+```{r}
+#| label: fig-airquality
+#| fig-cap: "Temperature and ozone level."
+#| out-width: 83%
+#| output-location: column
+#| echo: fenced
+#| code-fold: true
+
+library(ggplot2)
+
+ggplot(airquality, aes(Temp, Ozone)) + 
+  geom_point() + 
+  geom_smooth(method = "loess")
+```
+
+## Teaching materials {.smaller}
+
+Cross-referencing is also useful for teaching.
+For example, we can link directly to @sec-whatisquarto on "What is Quarto?" or to @fig-mtcars, the scatterplot from earlier.
+Or perhaps we want to reference @tbl-iris.
+Where's @tbl-iris?
+Later in the deck!
+
+Note that we're not actually typing "Table 1." Here's the source code for the paragraph above:
+
+``` code-overflow-wrap
+Cross-referencing is also useful for teaching.
+For example, we can link directly to @sec-whatisquarto on "What is Quarto?" or to @fig-mtcars, the scatterplot from earlier.
+Or perhaps we want to reference @tbl-iris.
+Where's @tbl-iris?
+Later in the deck!
+```
+
+## Research & Publication
+
+The bread and butter.
+We'll be focusing on this for the remainder of the session.
+It's worth noting here that you can cite references in a slide deck just as you would a document. For example, we might cite @taddeoJustInformationWarfare2016, @klineWhatTechnology1985, and @ihdeTechnologyLifeworldGarden1990, and they would automatically be listed in the References section (@sec-refs).^[And, since we've specified we want to use APA style in the YAML by including `apa.csl`, we know the references are perfectly formatted.]
+First, though...
+
+::: attribution
+<!--# All images via [dream.ai](https://dream.ai) and [DALL-E 3](https://openai.com). -->
+:::
+
+::: notes
+:::
+
+#  {#install data-menu-title="Installation and Use" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Installation and Use]{.r-fit-text}
+
+## Installing Quarto
+
+::: columns
+::: {.column width="65%"}
+-   [Download & install](https://quarto.org)
+-   Initial setup^[There is none! It lives in the background.]
+-   Basic configuration
+:::
+
+::: {.column width="35%"}
+![](assets/intro.jpg)
+:::
+:::
+
+
+::: attribution
+Images via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+:::
+
+## Basic Features
+
+::: columns
+::: {.column width="65%"}
+-   Document types
+-   Tool integrations
+-   Portable and replicable
+:::
+
+::: {.column width="35%"}
+![](assets/software.jpg)
+:::
+:::
+
+::: attribution
+:::
+
+::: notes
+-   Quarto lets you create virtually any type of document, whether that's a slide deck (like this one), a webpage, a book, interactive dashboards, a Confluence site, or, as we'll see, manuscripts.
+-   It also natively integrates into platforms like RStudio and Jupyter notebooks, so think of it as simply a _way_ of writing rather than a platform for doing so.
+-   Since you're writing in plain text and building your manuscript, code, graphs, analysis, even references right there in the file, you can just give it to the world and it should work as intended. Replicability and reproducability are really the key, here.
+:::
+
+#  {#advanced data-menu-title="Advanced Features" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Advanced Features]{.r-fit-text}
+
+## Advanced Data Handling {.smaller .scrollable}
+
+
+```{r}
+#| layout: [[1,1], [1]]
+#| code-fold: true
+#| echo: true
+library(dygraphs)
+dygraph(fdeaths, "Female Deaths")
+dygraph(mdeaths, "Male Deaths")
+dygraph(ldeaths, "All Deaths")
+```
+
+
+::: attribution
+:::
+
+::: notes
+
+-   Embedding code
+-   Live data updates
+-   Enhanced visualization
+
+:::
+
+## Iris table {.scrollable .smaller}
+
+Remember we talked about this earlier?
+
+```{r}
+#| label: tbl-iris
+#| tbl-cap: A table displaying 75 rows of the iris dataset.
+
+knitr::kable(
+  head(iris, 75),
+  booktabs = TRUE,
+  linesep = ""
+)
+```
+
+## Customization in Quarto
+
+::: columns
+::: {.column width="65%"}
+-   [Academic templates](https://quarto.org/docs/extensions/listing-journals.html)
+-   [Styling & formatting](https://quarto.org/docs/authoring/markdown-basics.html)
+-   [Layout tips](https://quarto.org/docs/authoring/article-layout.html)
+:::
+
+::: {.column width="35%"}
+![](assets/customize.jpg)
+:::
+:::
+
+
+::: attribution
+Images via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+:::
+
+#  {#scholarly data-menu-title="Scholarly Writing" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Scholarly writing]{.r-fit-text}
+
+## [Live Demonstration](https://posit.cloud/spaces/432929/content/all?sort=name_asc)
+
+::: columns
+::: {.column width="65%"}
+-   Create document
+-   Embed data
+-   Format output
+-   Zotero integration
+-   Native citation
+-   Cross-referencing
+:::
+
+::: {.column width="35%"}
+![](assets/demo.jpg)
+:::
+:::
+
+::: attribution
+Images via [dream.ai](https://dream.ai).
+:::
+
+::: notes
+:::
+
+## Examples
+
+
+::: columns
+::: {.column width="65%"}
+
+Quarto now has a **[manuscript](https://quarto.org/docs/manuscripts/)** project type to make this even easier!
+
+Let's look at two examples: [one external](https://stats.andrewheiss.com/compassionate-clam/) and one internal!
+
+:::
+
+::: {.column width="35%"}
+![](assets/manuscripts.jpg)
+
+:::
+:::
+
+::: notes
+Here I'll show you an actual Quarto document and how it's built into the format the outlet requires just by adding a couple lines of code.
+:::
+
+## Adoption Support {.smaller}
+
+::: {.callout-tip collapse="true"}
+### Learning resources
+
+Most of what you'll need to know can be found on the Quarto website's [Guide](https://quarto.org/docs/guide/).
+:::
+
+::: {.callout-warning collapse="true"}
+### Troubleshooting
+
+Google is your friend! You can also try using LLMs like ChatGPT to help troubleshoot syntax errors.
+:::
+
+::: {.callout-note collapse="true"}
+### Community resources
+
+Check out the `#quartopub` hashtag on social media for a vibrant community of folks using this platform!
+:::
+
+
+
+::: attribution
+<!--# All images via [dream.ai](https://dream.ai) and [DALL-E 3](https://openai.com). -->
+:::
+
+::: notes
+- The guide is indispensible. Quarto can be intimidating at first, especially if you're not used to using plain text for writing and building, so having walkthroughs is fantastic.
+- Honestly, just Google whatever problem you're having. I've found 99% of my issues can be solved by:
+    - Undoing my last thing and trying again. (It's usually user error.)
+    - Updating packages and whatnot.
+    - And, failing that, just Googling the issue.
+- The community around Quarto is great. People genuinely love using it to do really cool things.
+:::
+
+#  {#conclusion data-menu-title="Conclusion" background="#9EABAE" background-image="assets/banner.png" background-size="35%" background-position="right 5% top 5%"}
+
+[Conclusion]{.r-fit-text}
+
+## Q&A Session
+
+::: columns
+::: {.column width="65%"}
+-   Questions?
+-   Let's clarify
+-   Thoughts?
+:::
+
+::: {.column width="35%"}
+![](assets/quarto-example.png)
+:::
+:::
+
+::: attribution
+<!--# All images via [dream.ai](https://dream.ai) and [DALL-E 3](https://openai.com). -->
+:::
+
+::: notes
+:::
+
+## That's a wrap! {.smaller}
+
+::: columns
+::: {.column width="65%"}
+Thanks, everybody!
+We hope this was useful!
+
+<iframe src="https://giphy.com/embed/I5irdw7NtcpDIwXnHj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+:::
+
+::: {.column width="35%"}
+What do you want to see?
+Tell us what you'd like us to cover by taking this brief survey.
+Use this QR code:
+
+{{< qrcode https://uarizona.co1.qualtrics.com/jfe/form/SV_eJQDuYvuv5lGOCW qr2 width=200 height=200 colorDark='#0C234B' >}}
+:::
+:::
+
+::: attribution
+<!--# All images via [dream.ai](https://dream.ai) and [DALL-E 3](https://openai.com). -->
+
+Image <a href="https://giphy.com/gifs/parksandrec-episode-12-parks-and-recreation-rec-I5irdw7NtcpDIwXnHj">via GIPHY</a>
+:::
+
+::: notes
+:::
+
+## References {#sec-refs}
+
+::: refs
+:::

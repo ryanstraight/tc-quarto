@@ -1,0 +1,1867 @@
+{
+    "sources": [
+        {
+            "ISBN": "978-1-00-040318-3",
+            "abstract": "A primer on legal issues relating to cyberspace, this textbook introduces business, policy and ethical considerations raised by our use of information technology. With a focus on the most significant issues impacting internet users and businesses in the United States of America, the book provides coverage of key topics such as social media, online privacy, artificial intelligence and cybercrime as well as emerging themes such as doxing, ransomware, revenge porn, data-mining, e-sports and fake news. The authors, experienced in journalism, technology and legal practice, provide readers with expert insights into the nuts and bolts of cyber law. Cyber Law and Ethics: Regulation of the Connected World provides a practical presentation of legal principles, and is essential reading for non-specialist students dealing with the intersection of the internet and the law.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Grabowski",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Robinson",
+                    "given": "Eric P."
+                }
+            ],
+            "id": "grabowskiCyberLawEthics2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "keyword": "Internet-Law and legislation-United States.",
+            "publisher": "Taylor & Francis Group",
+            "publisher-place": "Milton, UNITED KINGDOM",
+            "title": "Cyber Law and Ethics: Regulation of the Connected World",
+            "title-short": "Cyber Law and Ethics",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-5443-5930-4",
+            "abstract": "\"Introduction to Cyber Politics and Policy is a comprehensive introductory textbook for cyber politics and security courses, and the perfect addition to any International Relations or Intelligence course. Written by Mary Manjikian, an expert in the field and an instructor who has taught the course for ten years, it assumes no prior knowledge of technical concepts, legal concepts, military concepts or international relations theory\"–",
+            "author": [
+                {
+                    "family": "Manjikian",
+                    "given": "Mary"
+                }
+            ],
+            "edition": "First edition",
+            "id": "manjikianIntroductionCyberPolitics2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "keyword": "Government policy,Internet,Internet governance,Political aspects",
+            "publisher": "Sage, CQ Press",
+            "publisher-place": "Los Angeles",
+            "title": "Introduction to cyber politics and policy",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-3-319-41187-3",
+            "URL": "http://ezproxy.library.arizona.edu/login?url=http://dx.doi.org/10.1007/978-3-319-41187-3",
+            "abstract": "This book is an introduction to both offensive and defensive techniques of cyberdeception. Unlike most books on cyberdeception, this book focuses on methods rather than detection. It treats cyberdeception techniques that are current, novel, and practical, and that go well beyond traditional honeypots. It contains features friendly for classroom use: (1) minimal use of programming details and mathematics, (2) modular chapters that can be covered in many orders, (3) exercises with each chapter, and (4) an extensive reference list. Cyberattacks have grown serious enough that understanding and using deception is essential to safe operation in cyberspace. The deception techniques covered are impersonation, delays, fakes, camouflage, false excuses, and social engineering. Special attention is devoted to cyberdeception in industrial control systems and within operating systems. This material is supported by a detailed discussion of how to plan deceptions and calculate their detectability and effectiveness. Some of the chapters provide further technical details of specific deception techniques and their application. Cyberdeception can be conducted ethically and efficiently when necessary by following a few basic principles. This book is intended for advanced undergraduate students and graduate students, as well as computer professionals learning on their own. It will be especially useful for anyone who helps run important and essential computer systems such as critical-infrastructure and military systems. .",
+            "author": [
+                {
+                    "family": "Rowe",
+                    "given": "Neil C."
+                },
+                {
+                    "family": "Rrushi",
+                    "given": "Julian"
+                }
+            ],
+            "id": "roweIntroductionCyberdeception2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "Computer science; Computer communication systems; Computer security; Data encryption (Computer science)",
+            "language": "en-US",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Introduction to Cyberdeception",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-284-18406-8",
+            "author": [
+                {
+                    "family": "Spinello",
+                    "given": "Richard A."
+                }
+            ],
+            "edition": "Seventh edition",
+            "id": "spinelloCyberethicsMoralityLaw2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "keyword": "Computers and civilization,Cyberspace,Internet,Law and ethics,Moral and ethical aspects",
+            "publisher": "Jones & Bartlett Learning",
+            "publisher-place": "Burlington, MA",
+            "title": "Cyberethics: Morality and law in cyberspace",
+            "title-short": "Cyberethics",
+            "type": "book"
+        },
+        {
+            "DOI": "10.4324/9781003220534",
+            "ISBN": "978-1-00-322053-4",
+            "abstract": "Cypherpunk Ethics explores the moral worldview of the cypherpunks, a movement that advocates the use of strong digital cryptographyor crypto, for shortto defend individual privacy and promote institutional transparency in the digital age. Focusing on the writings of Timothy May and Julian Assange, two of the most prolific and influential cypherpunks, the book examines two competing paradigms of cypherpunk philosophycrypto anarchy and crypto justiceand examines the implications of cypherpunk ethics for a range of contemporary moral issues, including surveillance, privacy, whistleblowing, cryptocurrencies, journalism, democracy, censorship, intellectual property, and power. Rooted in theory but with very real applications, this volume will appeal not only to students and scholars of digital media, communication, journalism, philosophy, political science, critical data studies, sociology, and the history of technology but also to technologists and activists around the world.",
+            "author": [
+                {
+                    "family": "Anderson",
+                    "given": "Patrick D."
+                }
+            ],
+            "id": "andersonCypherpunkEthicsRadical2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        4
+                    ]
+                ]
+            },
+            "publisher": "Routledge",
+            "publisher-place": "London",
+            "title": "Cypherpunk Ethics: Radical Ethics for the Digital Age",
+            "title-short": "Cypherpunk Ethics",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1201/9781003187127",
+            "ISBN": "978-1-00-318712-7",
+            "abstract": "This book is the first of its kind to introduce the integration of ethics, laws, risks, and policies in cyberspace. The book provides understanding of the ethical and legal aspects of cyberspace along with the risks involved. It also addresses current and proposed cyber policies, serving as a summary of the state of the art cyber laws in the United States. It also, importantly, incorporates various risk management and security strategies from a number of organizations. Using easy-to-understand language and incorporating case studies, the authors begin with the consideration of ethics and law in cybersecurity and then go on to take into account risks and security policies. The section on risk covers identification, analysis, assessment, management, and remediation. The very important topic of cyber insurance is covered as wellits benefits, types, coverage, etc. The section on cybersecurity policy acquaints readers with the role of policies in cybersecurity and how they are being implemented by means of frameworks. The authors provide a policy overview followed by discussions of several popular cybersecurity frameworks, such as NIST, COBIT, PCI/DSS, ISO series, etc.",
+            "author": [
+                {
+                    "family": "Cotton",
+                    "given": "Ishaani Priyadarshini",
+                    "suffix": "Chase"
+                }
+            ],
+            "id": "cottonCybersecurityEthicsLegal2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3
+                    ]
+                ]
+            },
+            "publisher": "Apple Academic Press",
+            "publisher-place": "New York",
+            "title": "Cybersecurity: Ethics, Legal, Risks, and Policies",
+            "title-short": "Cybersecurity",
+            "type": "book"
+        },
+        {
+            "DOI": "10.4324/9781003205425",
+            "ISBN": "978-1-00-320542-5",
+            "abstract": "Are we being manipulated online? If so, is being manipulated by online technologies and algorithmic systems notably different from human forms of manipulation? And what is under threat exactly when people are manipulated online? This volume provides philosophical and conceptual depth to debates in digital ethics about online manipulation. The contributions explore the ramifications of our increasingly consequential interactions with online technologies such as online recommender systems, social media, user friendly design, microtargeting, default settings, gamification, and real time profiling. The authors in this volume address four broad and interconnected themes: What is the conceptual nature of online manipulation? And how, methodologically, should the concept be defined? Does online manipulation threaten autonomy, freedom, and meaning in life and if so, how? What are the epistemic, affective, and political harms and risks associated with online manipulation? What are legal and regulatory perspectives on online manipulation? This volume brings these various considerations together to offer philosophically robust answers to critical questions concerning our online interactions with one another and with autonomous systems. The Philosophy of Online Manipulation will be of interest to researchers and advanced students working in moral philosophy, digital ethics, philosophy of technology, and the ethics of manipulation.",
+            "editor": [
+                {
+                    "family": "Klenk",
+                    "given": "Fleur Jongepier",
+                    "suffix": "Michael"
+                }
+            ],
+            "id": "klenkPhilosophyOnlineManipulation2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Routledge",
+            "publisher-place": "New York",
+            "title": "The Philosophy of Online Manipulation",
+            "type": "book"
+        },
+        {
+            "DOI": "10.4324/9781003248828",
+            "ISBN": "978-1-00-324882-8",
+            "abstract": "This textbook offers an accessible introduction to the topic of cybersecurity ethics. The second edition has been revised and updated, and contains new chapters on social justice, AI, and Big Data. The book is split into three parts. Part I provides an introduction to the field of ethics, philosophy, and philosophy of science, three ethical frameworks  virtue ethics, utilitarian ethics, and communitarian ethics  and the notion of ethical hacking. Part II applies these frameworks to particular issues within the field of cybersecurity, including privacy rights, surveillance, and intellectual property. The third part concludes by exploring current codes of ethics used in cybersecurity, with chapters on artificial intelligence, social diversity, Big Data, and cyberwarfare. The overall aims of the book are to: Provide ethical frameworks to aid decision-making Present the key ethical issues in relation to computer security Highlight the connection between values and beliefs and the professional code of ethics The textbook also includes three different features to aid students: \"Going Deeper\" features provide background on individuals, events, and institutions in cybersecurity; \"Critical Issues\" features contemporary case studies; and \"Tech Talks\" contain features that assume some familiarity with technological developments. The book will be of much interest to students of cybersecurity, cyberethics, hacking, surveillance studies, ethics, and information science.",
+            "author": [
+                {
+                    "family": "Manjikian",
+                    "given": "Mary"
+                }
+            ],
+            "edition": "2",
+            "id": "manjikianCybersecurityEthicsIntroduction2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12
+                    ]
+                ]
+            },
+            "publisher": "Routledge",
+            "publisher-place": "London",
+            "title": "Cybersecurity Ethics: An Introduction",
+            "title-short": "Cybersecurity Ethics",
+            "type": "book"
+        },
+        {
+            "URL": "http://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+            "author": [
+                {
+                    "literal": "Aristotle"
+                }
+            ],
+            "container-title": "The Internet Classics Archive",
+            "id": "aristotleNicomacheanEthics2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "title": "Nicomachean Ethics",
+            "translator": [
+                {
+                    "family": "Ross",
+                    "given": "W. D."
+                }
+            ],
+            "type": ""
+        },
+        {
+            "URL": "http://www.faculty.umb.edu/gary_zabel/Courses/Morals%20and%20Law/M+L/Hobbes-Leviathan.htm",
+            "author": [
+                {
+                    "family": "Hobbes",
+                    "given": "Thomas"
+                }
+            ],
+            "id": "hobbesLeviathan1651",
+            "issued": {
+                "date-parts": [
+                    [
+                        1651
+                    ]
+                ]
+            },
+            "title": "Leviathan",
+            "type": ""
+        },
+        {
+            "ISBN": "978-0-300-12815-4",
+            "URL": "https://www.degruyter.com/doi/book/10.12987/9780300128154",
+            "abstract": "Immanuel Kant’s Groundwork for the Metaphysics of Morals is one of the most important texts in the history of ethics. In it Kant searches for the supreme principle of morality and argues for a conception of the moral life that has made this work a continuing source of controversy and an object of reinterpretation for over two centuries.This new edition of Kant’s work provides a fresh translation that is uniquely faithful to the German original and more fully annotated than any previous translation. There are also four essays by well-known scholars that discuss Kant’s views and the philosophical issues raised by the Groundwork. J.B. Schneewind defends the continuing interest in Kantian ethics by examining its historical relation both to the ethical thought that preceded it and to its influence on the ethical theories that came after it; Marcia Baron sheds light on Kant’s famous views about moral motivation; and Shelly Kagan and Allen W. Wood advocate contrasting interpretations of Kantian ethics and its practical implications.",
+            "annote": "OCLC: 1013960173",
+            "author": [
+                {
+                    "family": "Kant",
+                    "given": "Immanuel"
+                }
+            ],
+            "id": "kantGroundworkMetaphysicsMorals2008",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "language": "in english.",
+            "title": "Groundwork for the Metaphysics of Morals",
+            "type": "book"
+        },
+        {
+            "URL": "http://www.alevelphilosophy.co.uk/handouts_ethics/KantsEthics.pdf",
+            "author": [
+                {
+                    "family": "Lacewing",
+                    "given": "Michael"
+                }
+            ],
+            "id": "lacewingKantEthics2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Routledge",
+            "title": "Kant’s ethics",
+            "type": ""
+        },
+        {
+            "URL": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+            "author": [
+                {
+                    "literal": "Philosophy Tube"
+                }
+            ],
+            "id": "philosophytubeLogicPhilosophyTube2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7
+                    ]
+                ]
+            },
+            "title": "Logic | Philosophy Tube",
+            "type": ""
+        },
+        {
+            "URL": "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm#annotations:group:DzDoojLg",
+            "author": [
+                {
+                    "literal": "Plato"
+                }
+            ],
+            "container-title": "The Project Gutenberg eBook of The Republic, by Plato",
+            "id": "platoRepublic2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "The Republic",
+            "translator": [
+                {
+                    "family": "Jowett",
+                    "given": "B"
+                }
+            ],
+            "type": ""
+        },
+        {
+            "URL": "https://www.scu.edu/mcae/publications/iie/v7n1/thinking.html",
+            "author": [
+                {
+                    "family": "Velasquez",
+                    "given": "Manuel"
+                },
+                {
+                    "family": "Andre",
+                    "given": "Claire"
+                },
+                {
+                    "family": "Shanks",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Meyer",
+                    "given": "Michael J."
+                },
+                {
+                    "literal": "S. J."
+                }
+            ],
+            "container-title": "Santa Clara University Markkula Center for Applied Ethics",
+            "id": "velasquezThinkingEthicallyFramework2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Thinking Ethically: A Framework for Moral Decision making",
+            "title-short": "Thinking Ethically",
+            "type": ""
+        },
+        {
+            "URL": "https://www.eccouncil.org/code-of-ethics/",
+            "abstract": "The Principles based on the organization Keeping Private and Confidential information gained in your professional Work.",
+            "container-title": "EC-Council",
+            "id": "ec-councilCodeEthics2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Code of Ethics",
+            "type": ""
+        },
+        {
+            "ISBN": "978-0-465-03914-2",
+            "abstract": "There’s a common belief that cyberspace cannot be regulated-that it is, in its very essence, immune from the government’s (or anyone else’s) control. Code, first published in 2000, argues that this belief is wrong. It is not in the nature of cyberspace to be unregulable; cyberspace has no \"nature.\" It only has code-the software and hardware that make cyberspace what it is. That code can create a place of freedom-as the original architecture of the Net did-or a place of oppressive control. Under the influence of commerce, cyberspace is becoming a highly regulable space, where behavior is much more tightly controlled than in real space. But that’s not inevitable either. We can-we must-choose what kind of cyberspace we want and what freedoms we will guarantee. These choices are all about architecture: about what kind of code will govern cyberspace, and who will control it. In this realm, code is the most significant form of law, and it is up to lawyers, policymakers, and especially citizens to decide what values that code embodies. Since its original publication, this seminal book has earned the status of a minor classic. This second edition, or Version 2.0, has been prepared through the author’s wiki, a web site that allows readers to edit the text, making this the first reader-edited revision of a popular book.",
+            "author": [
+                {
+                    "family": "Lessig",
+                    "given": "Lawrence"
+                }
+            ],
+            "edition": "2nd Revised ed. edition",
+            "id": "lessigCodeOtherLaws2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Basic Books",
+            "publisher-place": "New York",
+            "title": "Code: And Other Laws of Cyberspace, Version 2.0",
+            "title-short": "Code",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1016/j.techsoc.2020.101382",
+            "ISSN": "0160791X",
+            "abstract": "This paper critiques existing governance in cyber-security ethics through providing an overview of some of the ethical issues facing researchers in the cybersecurity community and highlighting shortfalls in governance practice. We separate these issues into those facing the academic research community and those facing the (corporate) practitioner community, drawing on two case studies. While there is overlap between these com munities, there are also stark differences. Academic researchers can often rely on research ethics boards (REBs) to provide ethical oversight and governance which are typically unavailable to the practitioner community. However, we argue that even within the academic community the constitution of REBs is such that they may be (and in some cases at least are) unable to offer sound advice. Our recommendations are that ethics should be taught in far greater depth on computer science courses than is currently the case, and that codes of conduct should be developed and deployed provided they can be seen to be effective. In tandem with these, an active discussion regarding the ethics of cybersecurity and cybersecurity research is urgently needed.",
+            "author": [
+                {
+                    "family": "Macnish",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Van Der Ham",
+                    "given": "Jeroen"
+                }
+            ],
+            "container-title": "Technology in Society",
+            "id": "macnishEthicsCybersecurityResearch2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "101382",
+            "title": "Ethics in cybersecurity research and practice",
+            "type": "article-journal",
+            "volume": "63"
+        },
+        {
+            "URL": "https://unesdoc.unesco.org/ark:/48223/pf0000381137",
+            "author": [
+                {
+                    "literal": "UNESCO"
+                }
+            ],
+            "id": "unescoRecommendationEthicsArtificial2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "UNESCO",
+            "title": "Recommendation on the Ethics of Artificial Intelligence",
+            "type": ""
+        },
+        {
+            "URL": "https://www.law.cornell.edu/uscode/text/18/1030",
+            "container-title": "LII / Legal Information Institute",
+            "id": "18Code1030",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "18 U.S. Code  1030 - Fraud and related activity in connection with computers",
+            "type": ""
+        },
+        {
+            "URL": "https://constitution.congress.gov/constitution/",
+            "abstract": "The original text of the United States Constitution and its Amendments.",
+            "id": "ConstitutionConstitutionAnnotated",
+            "language": "en-US",
+            "title": "U.S. Constitution | Constitution Annotated | Congress.gov | Library of Congress",
+            "type": ""
+        },
+        {
+            "abstract": "The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. 1030, outlaws conduct that victimizes computer systems. It is a cyber security law. It protects federal computers, bank computers, and computers connected to the Internet. It shields them from trespassing, threats, damage, espionage, and from being corruptly used as instruments of fraud. It is not a comprehensive provision, but instead it fills cracks and gaps in the protection afforded by other federal criminal laws. This is a brief sketch of CFAA and some of its federal statutory companions, including the amendments found in the Identity Theft Enforcement and Restitution Act, P.L. 110-326, 122 Stat. 3560 (2008).",
+            "author": [
+                {
+                    "family": "Doyle",
+                    "given": "Charles"
+                }
+            ],
+            "genre": "CRS Report",
+            "id": "doyleCybercrimeSketch182014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "number": "RS20830",
+            "page": "9",
+            "publisher": "Congressional Research Service",
+            "title": "Cybercrime: A Sketch of 18 U.S.C. 1030 and Related Federal Criminal Laws",
+            "title-short": "Cybercrime",
+            "type": "report"
+        },
+        {
+            "URL": "https://www.forbes.com/sites/forbestechcouncil/2018/01/19/the-five-laws-of-cybersecurity/?sh=55c6c9002265",
+            "author": [
+                {
+                    "family": "Espinosa",
+                    "given": "Nick"
+                },
+                {
+                    "literal": "Forbes Technology Council"
+                }
+            ],
+            "container-title": "Forbes",
+            "id": "espinosaFiveLawsCybersecurity2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "title": "The Five Laws Of Cybersecurity",
+            "type": ""
+        },
+        {
+            "DOI": "10.13140/RG.2.1.3897.1360",
+            "abstract": "Penetration testers are required to attack systems to evaluate their security, but without engaging in unethical behaviour while doing so. Despite work on hacker values and studies into security practice, there is little literature devoted to the ethical pressures associated with penetration testing. This paper presents several ethical dilemmas and dimensions associated with penetration testing; these shed light on the ethical positions taken by penetration testers, and help identify potential fallacies and biases associated with each position.",
+            "author": [
+                {
+                    "family": "Faily",
+                    "given": "S"
+                },
+                {
+                    "family": "McAlaney",
+                    "given": "J"
+                },
+                {
+                    "family": "Iacob",
+                    "given": "C"
+                }
+            ],
+            "container-title": "Proceedings of the Ninth International Symposium on Human Aspects of Information Security & Assurance (HAISA 2015)",
+            "id": "failyEthicalDilemmasDimensions2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "10",
+            "title": "Ethical Dilemmas and Dimensions in Penetration Testing",
+            "type": "paper-conference"
+        },
+        {
+            "DOI": "10.1016/j.cose.2019.02.012",
+            "ISSN": "0167-4048",
+            "abstract": "This paper offers a virtue ethics analysis of social engineering in penetration-testing. It begins by considering previous research on this topic and argues that such attempts misconstrue or more often overlook this Aristotelian tradition. It articulates the core tenets of virtue ethics and applies them to an analysis of white hat social engineering. A virtue ethics analysis requires that individuals and the firms that initiate the penetration-test be placed within a larger communal context which obligates individuals who are potential human hacking victims to participate in the constitution and flourishing of larger communities. As such, for virtue ethics consent is not a necessary condition for the positive ethical status of white hat social engineering. If methods are consistent with moderation (i.e. the golden mean) manipulation at lower orders within the hierarchy of communities can be justified if it can reasonably be understood as part of an individual’s participatory obligation and the results of this participation is essential to ensure the eudaimonia of the larger community. Nevertheless, the golden mean requires that robust mitigation strategies lessen the degree of harm inflicted on social engineering victims. Where possible, a degree of consent should be attained as part of this mitigation. Finally, penetration-testing firms must be able to demonstrate that a robust ethical training program governs its use of social engineering.",
+            "author": [
+                {
+                    "family": "Hatfield",
+                    "given": "Joseph M."
+                }
+            ],
+            "container-title": "Computers & Security",
+            "id": "hatfieldVirtuousHumanHacking2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Cybersecurity,Ethical hacking,Ethics,Human hacking,Social engineering,Virtue ethics",
+            "language": "en-US",
+            "page": "354-366",
+            "title": "Virtuous human hacking: The ethics of social engineering in penetration-testing",
+            "title-short": "Virtuous human hacking",
+            "type": "article-journal",
+            "volume": "83"
+        },
+        {
+            "URL": "https://supreme.justia.com/cases/federal/us/575/13-983/",
+            "abstract": "Elonis v. United States: Omitting a reference to intent in a criminal statute does not mean that mere negligence is the appropriate mental state to support a conviction, and a statute must be interpreted to require specific intent if a requirement of general intent would not protect some innocent actors.",
+            "id": "ElonisUnitedStates2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "number": "13-983",
+            "title": "Elonis v. United States, 575 U.S. ___ (2015)",
+            "type": "",
+            "volume": "575"
+        },
+        {
+            "DOI": "10.36645/mtlr.29.1.private",
+            "ISSN": "2688-5484, 2688-4941",
+            "abstract": "The proliferation of online disinformation and the rise of private censorship are paradigmatic examples of the challenges to traditional First Amendment jurisprudence in an algorithmic society. The limitations of traditional First Amendment jurisprudence are amplified by the impact of the COVID-19 pandemic in two ways. On the one hand, in the wake of the pandemic, we have entered an “infodemic” era where the volume of disinformation, as well as the harm it causes have reached unprecedented levels. For example, health disinformation has contributed to vaccine hesitancy. On the other hand, even though the proliferation of online disinformation seems to suggest that it is desirable to enforce content moderation more rigorously, the pandemic has also revealed the importance of access to online information, raising concerns about censorship imposed by private platforms on social media users. Furthermore, the high degree of opacity and unpredictability of content moderation pose great danger to users’ First Amendment right. In light of the above consideration, this Note proposes a legal framework that would curtail online disinformation while ensuring users’ right to accessing online platforms. To achieve this goal, this Note argues that the First Amendment should be interpreted as not merely a negative right but also a positive right. That is, the traditional laissez-faire First Amendment jurisprudence, which considers public actors as the sole threat to freedom of speech and neglects the power asymmetry between private platforms and their users, should be rejected. The underlying principle of the positive approach is to design a regulatory regime that is least restrictive and fosters accountability and transparency in content moderation by introducing procedural requirements. In this regard, the recently introduced Digital Services Act in the European Unionwhich represents a paradigmatic shift from interpreting freedom of speech as a “negative right” (i.e., protecting users from government interferences) to a “positive right” (i.e., ensuring the government provides users with sufficient procedural safeguards to check against private platforms)could provide some important lessons for the U.S. to reconstruct its online platforms regulation in the era of an algorithmic society.",
+            "author": [
+                {
+                    "family": "Huang",
+                    "given": "Tzu- Chiang"
+                }
+            ],
+            "container-title": "Michigan Technology Law Review",
+            "id": "huangPrivateCensorshipDisinformation2022",
+            "issue": "29",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "137",
+            "title": "Private Censorship, Disinformation and the First Amendment: Rethinking Online Platforms Regulation in the Era of a Global Pandemic",
+            "title-short": "Private Censorship, Disinformation and the First Amendment",
+            "type": "article-journal"
+        },
+        {
+            "URL": "https://www.law.cornell.edu/supremecourt/text/521/844",
+            "id": "JanetRENOAttorney1997",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "844",
+            "title": "Janet RENO, Attorney General of the United States, et al., Appellants v. AMERICAN CIVIL LIBERTIES UNION et al.",
+            "type": "",
+            "volume": "521"
+        },
+        {
+            "annote": "You are required to read only the first 28 pages of this article. &nbsp;The remaining pages of the article are appendices, the last of which is a compilation of laws covering&nbsp;online harassment in all 50 states. &nbsp;I have posted the entire article so that–if you are interested–you can find out what the applicable laws are in your state (or any other state in which you might be interested).",
+            "author": [
+                {
+                    "family": "Marwick",
+                    "given": "Alice E"
+                },
+                {
+                    "family": "Miller",
+                    "given": "Ross"
+                }
+            ],
+            "id": "marwickOnlineHarassmentDefamation2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Fordham Law School",
+            "publisher-place": "Center on Law and Information Policy",
+            "title": "Online Harassment, Defamation, and Hateful Speech: A Primer of the Legal Landscape",
+            "title-short": "Online Harassment, Defamation, and Hateful Speech",
+            "type": "report"
+        },
+        {
+            "ISSN": "0025-987X",
+            "author": [
+                {
+                    "family": "Preston",
+                    "given": "Stella"
+                }
+            ],
+            "container-title": "Mercer Law Review",
+            "id": "prestonHowFreeYour2023",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1521-1547",
+            "title": "How Free is Your Speech on Social Media? Reconciling the Circuit Split Created by the Eleventh and Fifth Circuit’s Decisions on Anti-Censorship Laws Governing Social Media Platforms",
+            "type": "article-journal"
+        },
+        {
+            "URL": "https://www.cnn.com/2021/01/12/politics/first-amendment-explainer-2021-trnd/index.html",
+            "author": [
+                {
+                    "family": "Willingham",
+                    "given": "AJ"
+                },
+                {
+                    "family": "Andrew",
+                    "given": "Scottie"
+                }
+            ],
+            "container-title": "CNN Politics",
+            "id": "willinghamFirstAmendmentFree2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "First Amendment and free speech: When it applies and when it doesn’t",
+            "title-short": "First Amendment and free speech",
+            "type": ""
+        },
+        {
+            "URL": "https://supreme.justia.com/cases/federal/us/585/16-402/",
+            "abstract": "Carpenter v. United States: Obtaining cell-site location information constitutes a search under the Fourth Amendment, requiring a warrant supported by probable cause.",
+            "id": "CarpenterUnitedStates2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Carpenter v. United States, 585 U.S. ___ (2018)",
+            "type": "",
+            "volume": "585"
+        },
+        {
+            "URL": "https://www.csis.org/analysis/surveillance-sale",
+            "abstract": "U.S. and foreign government agencies can acquire sensitive personal information, like smartphone geolocation records, from data brokers. Stricter privacy protections are necessary to strengthen U.S. national security, human rights, and economic interests.",
+            "author": [
+                {
+                    "family": "Chin",
+                    "given": "Caitlin"
+                }
+            ],
+            "id": "chinSurveillanceSale2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Center for Strategic & International Studies",
+            "title": "Surveillance for Sale",
+            "type": "report"
+        },
+        {
+            "URL": "https://supreme.justia.com/cases/federal/us/277/438/",
+            "id": "OlmsteadUnitedStates1928",
+            "issued": {
+                "date-parts": [
+                    [
+                        1928
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "438",
+            "title": "Olmstead v. United States, 277 U.S. 438 (1928)",
+            "type": "",
+            "volume": "277"
+        },
+        {
+            "DOI": "10.1080/2573234X.2021.1920856",
+            "ISSN": "2573-234X, 2573-2358",
+            "abstract": "The right to privacy has been discussed by scholars in multiple disciplines, yet privacy issues are increasing due to technological advances and lower costs for organisations to adopt smart surveillance. Given the potential for misuse, it seems prudent for stakeholders to critically evaluate Surveillance Analytics (SA) innovations. To assist in balancing the issues arising from SA adoption and the implications for privacy, we review key terms and ethical frameworks. Further, we prescribe a two-by-two Surveillance, Privacy, and Ethical Decision (SPED) Process Guide. SPED recommends the use of one or more of three ethical frameworks, Consequence, Duty, and Virtue. The vertical axis in the SPED matrix is the sophistication of an organisation’s SA and the horizontal axis is an assessment of the current privacy level and the rights afforded to the target(s) of surveillance. The proposed decision process guide can assist senior managers and technologists in making decisions about adopting SA.",
+            "author": [
+                {
+                    "family": "Power",
+                    "given": "Daniel J."
+                },
+                {
+                    "family": "Heavin",
+                    "given": "Ciara"
+                },
+                {
+                    "family": "O’Connor",
+                    "given": "Yvonne"
+                }
+            ],
+            "container-title": "Journal of Business Analytics",
+            "id": "powerBalancingPrivacyRights2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "155-170",
+            "title": "Balancing privacy rights and surveillance analytics: A decision process guide",
+            "title-short": "Balancing privacy rights and surveillance analytics",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "URL": "https://sgp.fas.org/crs/misc/R43586.pdf",
+            "author": [
+                {
+                    "family": "Thompson II",
+                    "given": "Richard M"
+                }
+            ],
+            "genre": "CRS Report",
+            "id": "thompsoniiFourthAmendmentThird2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "number": "R43586",
+            "title": "Fourth Amendment Third Party Doctrine",
+            "type": "report"
+        },
+        {
+            "DOI": "10.1093/acprof:oso/9780190221072.003.0011",
+            "ISBN": "978-0-19-022107-2",
+            "author": [
+                {
+                    "family": "Roff",
+                    "given": "Heather M."
+                }
+            ],
+            "container-title": "Binary Bullets",
+            "editor": [
+                {
+                    "family": "Allhoff",
+                    "given": "Fritz"
+                },
+                {
+                    "family": "Henschke",
+                    "given": "Adam"
+                },
+                {
+                    "family": "Strawser",
+                    "given": "Bradley Jay"
+                }
+            ],
+            "id": "roffCyberPerfidyRuse2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "201-227",
+            "publisher": "Oxford University Press",
+            "title": "Cyber Perfidy, Ruse, and Deception",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1007/978-3-319-41187-3_4",
+            "ISBN": "978-3-319-41185-9 978-3-319-41187-3",
+            "author": [
+                {
+                    "family": "Rowe",
+                    "given": "Neil C."
+                },
+                {
+                    "family": "Rrushi",
+                    "given": "Julian"
+                }
+            ],
+            "container-title": "Introduction to Cyberdeception",
+            "id": "roweDeceptionMethodsDefense2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "39-53",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Deception Methods for Defense",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1007/978-3-319-41187-3_5",
+            "ISBN": "978-3-319-41185-9 978-3-319-41187-3",
+            "author": [
+                {
+                    "family": "Rowe",
+                    "given": "Neil C."
+                },
+                {
+                    "family": "Rrushi",
+                    "given": "Julian"
+                }
+            ],
+            "container-title": "Introduction to Cyberdeception",
+            "id": "roweDeceptionMethodsOffense2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "55-62",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Deception Methods for Offense",
+            "type": "chapter"
+        },
+        {
+            "ISBN": "978-3-319-41187-3",
+            "URL": "http://ezproxy.library.arizona.edu/login?url=http://dx.doi.org/10.1007/978-3-319-41187-3",
+            "abstract": "This book is an introduction to both offensive and defensive techniques of cyberdeception. Unlike most books on cyberdeception, this book focuses on methods rather than detection. It treats cyberdeception techniques that are current, novel, and practical, and that go well beyond traditional honeypots. It contains features friendly for classroom use: (1) minimal use of programming details and mathematics, (2) modular chapters that can be covered in many orders, (3) exercises with each chapter, and (4) an extensive reference list. Cyberattacks have grown serious enough that understanding and using deception is essential to safe operation in cyberspace. The deception techniques covered are impersonation, delays, fakes, camouflage, false excuses, and social engineering. Special attention is devoted to cyberdeception in industrial control systems and within operating systems. This material is supported by a detailed discussion of how to plan deceptions and calculate their detectability and effectiveness. Some of the chapters provide further technical details of specific deception techniques and their application. Cyberdeception can be conducted ethically and efficiently when necessary by following a few basic principles. This book is intended for advanced undergraduate students and graduate students, as well as computer professionals learning on their own. It will be especially useful for anyone who helps run important and essential computer systems such as critical-infrastructure and military systems. .",
+            "author": [
+                {
+                    "family": "Rowe",
+                    "given": "Neil C."
+                },
+                {
+                    "family": "Rrushi",
+                    "given": "Julian"
+                }
+            ],
+            "id": "roweIntroductionCyberdeception2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "Computer science; Computer communication systems; Computer security; Data encryption (Computer science)",
+            "language": "en-US",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Introduction to Cyberdeception",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1007/978-3-319-41187-3_16",
+            "ISBN": "978-3-319-41185-9 978-3-319-41187-3",
+            "author": [
+                {
+                    "family": "Rowe",
+                    "given": "Neil C."
+                },
+                {
+                    "family": "Rrushi",
+                    "given": "Julian"
+                }
+            ],
+            "container-title": "Introduction to Cyberdeception",
+            "id": "roweLawEthicsSoftware2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "241-250",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Law and Ethics for Software Deception",
+            "type": "chapter"
+        },
+        {
+            "ISSN": "1059-1028",
+            "URL": "https://www.wired.com/story/how-north-korea-robs-banks-around-world/",
+            "abstract": "They scored $80 million by tricking a network into routing funds to Sri Lanka and the Philippines and then using a \"money mule\" to pick up the cash.",
+            "author": [
+                {
+                    "family": "Buchanan",
+                    "given": "Ben"
+                }
+            ],
+            "chapter-number": "tags",
+            "container-title": "Wired",
+            "id": "buchananHowNorthKorean",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "keyword": "cybercrime,hacking,longreads,north korea",
+            "language": "en-US",
+            "title": "How North Korean Hackers Rob Banks Around the World",
+            "type": "article-journal"
+        },
+        {
+            "abstract": "The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. 1030, outlaws conduct that victimizes computer systems. It is a cyber security law. It protects federal computers, bank computers, and computers connected to the Internet. It shields them from trespassing, threats, damage, espionage, and from being corruptly used as instruments of fraud. It is not a comprehensive provision, but instead it fills cracks and gaps in the protection afforded by other federal criminal laws. This is a brief sketch of CFAA and some of its federal statutory companions, including the amendments found in the Identity Theft Enforcement and Restitution Act, P.L. 110-326, 122 Stat. 3560 (2008).",
+            "author": [
+                {
+                    "family": "Doyle",
+                    "given": "Charles"
+                }
+            ],
+            "genre": "{{CRS Report}}",
+            "id": "doyleCybercrimeSketch182014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "number": "RS20830",
+            "page": "9",
+            "publisher": "Congressional Research Service",
+            "title": "Cybercrime: A Sketch of 18 U.S.C. 1030 and Related Federal Criminal Laws",
+            "title-short": "Cybercrime",
+            "type": "report"
+        },
+        {
+            "URL": "https://gdpr-info.eu/",
+            "abstract": "General Data Protection Regulation (EU GDPR)  The official PDF of the Regulation (EU) 2016/679, its recitals & key issues as a neatly arranged website.",
+            "author": [
+                {
+                    "literal": "Intersoft Consulting"
+                }
+            ],
+            "container-title": "General Data Protection Regulation (GDPR)",
+            "id": "intersoftconsultingGeneralDataProtection2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "General Data Protection Regulation (GDPR)",
+            "type": ""
+        },
+        {
+            "DOI": "10.1093/acprof:oso/9780190221072.003.0003",
+            "ISBN": "978-0-19-022107-2",
+            "author": [
+                {
+                    "family": "Schmitt",
+                    "given": "Michael N."
+                },
+                {
+                    "family": "Vihul",
+                    "given": "Liis"
+                }
+            ],
+            "container-title": "Binary Bullets",
+            "editor": [
+                {
+                    "family": "Allhoff",
+                    "given": "Fritz"
+                },
+                {
+                    "family": "Henschke",
+                    "given": "Adam"
+                },
+                {
+                    "family": "Strawser",
+                    "given": "Bradley Jay"
+                }
+            ],
+            "id": "schmittEmergenceInternationalLegal2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "34-55",
+            "publisher": "Oxford University Press",
+            "title": "The Emergence of International Legal Norms for Cyberconflict",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://www.redcross.org/content/dam/redcross/atg/PDF_s/International_Services/International_Humanitarian_Law/IHL_SummaryGenevaConv.pdf",
+            "author": [
+                {
+                    "literal": "American Red Cross"
+                }
+            ],
+            "id": "americanredcrossSummaryGenevaConventions2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "title": "Summary of the Geneva Conventions of 1949 and Their Additional Protocols",
+            "type": ""
+        },
+        {
+            "URL": "https://crsreports.congress.gov/product/pdf/IN/IN12123",
+            "author": [
+                {
+                    "literal": "Congressional Resesarch Service"
+                }
+            ],
+            "id": "congressionalresesarchserviceNationalCybersecurityStrategy2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "publisher": "CSR Insight",
+            "title": "The National Cybersecurity Strategy",
+            "type": ""
+        },
+        {
+            "URL": "https://www.hsdl.org/c/abstract/",
+            "abstract": "Search over 250,000 publications and resources related to homeland security policy, strategy, and organizational management.",
+            "author": [
+                {
+                    "literal": "The White House"
+                }
+            ],
+            "id": "NationalCybersecurityStrategy2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "National Cybersecurity Strategy",
+            "type": ""
+        },
+        {
+            "DOI": "10.1093/acprof:oso/9780190221072.003.0003",
+            "ISBN": "978-0-19-022107-2",
+            "author": [
+                {
+                    "family": "Schmitt",
+                    "given": "Michael N."
+                },
+                {
+                    "family": "Vihul",
+                    "given": "Liis"
+                }
+            ],
+            "container-title": "Binary Bullets",
+            "editor": [
+                {
+                    "family": "Allhoff",
+                    "given": "Fritz"
+                },
+                {
+                    "family": "Henschke",
+                    "given": "Adam"
+                },
+                {
+                    "family": "Strawser",
+                    "given": "Bradley Jay"
+                }
+            ],
+            "id": "schmittEmergenceInternationalLegal2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "34-55",
+            "publisher": "Oxford University Press",
+            "title": "The Emergence of International Legal Norms for Cyberconflict",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1007/s11245-014-9245-8",
+            "ISSN": "1572-8749",
+            "abstract": "In this article I propose an ethical analysis of information warfare, the warfare waged in the cyber domain. The goal is twofold: filling the theoretical vacuum surrounding this phenomenon and providing the conceptual grounding for the definition of new ethical regulations for information warfare. I argue that Just War Theory is a necessary but not sufficient instrument for considering the ethical implications of information warfare and that a suitable ethical analysis of this kind of warfare is developed when Just War Theory is merged with Information Ethics. In the initial part of the article, I describe information warfare and its main features and highlight the problems that arise when Just War Theory is endorsed as a means of addressing ethical problems engendered by this kind of warfare. In the final part, I introduce the main aspects of Information Ethics and define three principles for a just information warfare resulting from the integration of Just War Theory and Information Ethics.",
+            "author": [
+                {
+                    "family": "Taddeo",
+                    "given": "Mariarosaria"
+                }
+            ],
+            "container-title": "Topoi",
+            "id": "taddeoJustInformationWarfare2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "Cyber conflicts,Entropy,Information Ethics,Information war,Just War Theory,War",
+            "language": "en-US",
+            "page": "213-224",
+            "title": "Just Information Warfare",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "URL": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
+            "abstract": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows: Section 1.  Policy.  The United States faces persistent and increasingly sophisticated malicious cyber campaigns that threaten the public sector, the private sector, and ultimately the American people’s security and privacy.  The Federal Government…",
+            "author": [
+                {
+                    "literal": "The White House"
+                }
+            ],
+            "id": "thewhitehouseExecutiveOrderImproving2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Federal Register",
+            "title": "Executive Order on Improving the Nation’s Cybersecurity",
+            "type": ""
+        },
+        {
+            "URL": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/fact-sheet-biden-harrisadministration-publishes-thenational-cybersecurity-strategyimplementation-plan/",
+            "abstract": "Read the full Implementation Plan here President Biden has made clear that all Americans deserve the full benefits and potential of our digital future. The Biden-Harris Administration’s recently released National Cybersecurity Strategy calls for two fundamental shifts in how the United States allocates roles, responsibilities, and resources in cyberspace: Today, the Administration is announcing a roadmap to…",
+            "author": [
+                {
+                    "literal": "The White House"
+                }
+            ],
+            "container-title": "The White House",
+            "id": "thewhitehouseFACTSHEETBidenHarris2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "FACT SHEET: Biden-Harris Administration Publishes the National Cybersecurity Strategy Implementation Plan",
+            "title-short": "FACT SHEET",
+            "type": ""
+        },
+        {
+            "URL": "https://harvardnsj.org/2011/12/02/demystifying-the-title-10-title-50-debate-distinguishing-military-operations-intelligence-activities-covert-action/",
+            "author": [
+                {
+                    "family": "Wall",
+                    "given": "Andru E."
+                }
+            ],
+            "container-title": "Harvard National Security Journal",
+            "id": "wallDemystifyingTitle10Title2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "85-142",
+            "title": "Demystifying the Title 10-Title 50 Debate: Distinguishing Military Operations, Intelligence Activities & Covert Action",
+            "title-short": "Demystifying the Title 10-Title 50 Debate",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "abstract": "In the late 20th century, there is only one thing most people agree about concerning technology – it is important. It is discussed almost as much as the weather, and sometimes it seems, with as little effect. But what is ’technology?’ If we look with even a little care, we find this same word is being used to represent things, actions, processes, methods and systems. ’Technology’ is also used symbolically as an epithet, for important working procedures, and to represent progress. This much conflict within the usage of one of our central terms won’t do; it can lead only to chaos. Even more important, the current vague use of the word ’technology’ hides from view two central concepts,and a central pattern of human behavior that we must have to make sense of our views of many critical questions in the current world including how we understand innovation, how we can communicate across Snow’s culture gap, and how we understand the way in which we humans make our living on the planet.",
+            "author": [
+                {
+                    "family": "Kline",
+                    "given": "Stephen J"
+                }
+            ],
+            "container-title": "Bulletin of Science, Technology & Society",
+            "id": "klineWhatTechnology1985",
+            "issued": {
+                "date-parts": [
+                    [
+                        1985
+                    ]
+                ]
+            },
+            "keyword": "#365papers,hnrs195h,philosophy of technology,technology",
+            "page": "215-218",
+            "title": "What is Technology?",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.4159/9780674042605",
+            "ISBN": "978-0-674-88010-8",
+            "abstract": "Though the revised edition of A Theory of Justice, published in 1999, is the definitive statement of John Rawls’s view, much of the extensive literature on his theory refers to the first edition. This reissue makes it once again available for scholars and serious students of Rawls’s work.",
+            "author": [
+                {
+                    "family": "Rawls",
+                    "given": "John"
+                }
+            ],
+            "id": "rawlsTheoryJustice1971",
+            "issued": {
+                "date-parts": [
+                    [
+                        1971
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Harvard University Press",
+            "publisher-place": "Cambridge",
+            "title": "A Theory of Justice",
+            "title-short": "A Theory of Justice",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-415-18024-5",
+            "abstract": "Philosophy and Computing explores each of the following areas of technology: the digital revolution; the computer; the Internet and the Web; CD-ROMs and Mulitmedia; databases, textbases, and hypertexts; Artificial Intelligence; the future of computing.Luciano Floridi shows us how the relationship between philosophy and computing provokes a wide range of philosophical questions: is there a philosophy of information? What can be achieved by a classic computer? How can we define complexity? What ar",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        3
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Floridi",
+                    "given": "Luciano"
+                }
+            ],
+            "id": "floridiPhilosophyComputingIntroduction1999",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Routledge",
+            "title": "Philosophy and Computing: An Introduction",
+            "title-short": "Philosophy and Computing",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-262-34857-7",
+            "abstract": "We are in the midst of a robot invasion, as devices of different configurations and capabilities slowly but surely come to take up increasingly important positions in everyday social reality-self-driving vehicles, recommendation algorithms, machine learning decision making systems, and social robots of various forms and functions. Although considerable attention has already been devoted to the subject of robots and responsibility, the question concerning the social status of these artifacts has been largely overlooked. 0In this book, David Gunkel offers a provocative attempt to think about what has been previously regarded as unthinkable: whether and to what extent robots and other technological artifacts of our own making can and should have any claim to moral and legal standing.In his analysis, Gunkel invokes the philosophical distinction (developed by David Hume) between \"is\" and \"ought\" in order to evaluate and analyze the different arguments regarding the question of robot rights. In the course of his examination, Gunkel finds that none of the existing positions or proposals hold up under scrutiny. In response to this, he then offers an innovative alternative proposal that effectively flips the script on the is/ought problem by introducing another, altogether different way to conceptualize the social situation of robots and the opportunities.",
+            "author": [
+                {
+                    "family": "Gunkel",
+                    "given": "David J."
+                }
+            ],
+            "id": "gunkelRobotRights2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "Human factors; Robots,Moral and ethical aspects; PHILOSOPHY/General; COMPUTER SCIENCE/Robotics & Agents,Robots",
+            "language": "en-US",
+            "publisher": "MIT Press",
+            "publisher-place": "Cambridge, MA",
+            "title": "Robot Rights",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1093/jmp/jhaa020",
+            "ISSN": "0360-5310",
+            "abstract": "This special issue commemorates the 40th anniversary of Tom Beauchamp and James Childress’s Principles of Biomedical Ethics with a collection of original essays addressing some of the major themes in the book. It opens with intellectual autobiographies by Beauchamp and Childress themselves. Subsequent articles explore the topics of common morality, specification and balancing of moral principles, virtue, moral status, autonomy, and lists of bioethical principles. The issue closes with a reply by Beauchamp and Childress to the other authors.",
+            "author": [
+                {
+                    "family": "Shea",
+                    "given": "Matthew"
+                }
+            ],
+            "container-title": "The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine",
+            "id": "sheaFortyYearsFour2020",
+            "issue": "4-5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7
+                    ]
+                ]
+            },
+            "page": "387-395",
+            "title": "Forty Years of the Four Principles: Enduring Themes from Beauchamp and Childress",
+            "title-short": "Forty Years of the Four Principles",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "DOI": "10.1007/s10746-007-9077-2",
+            "ISBN": "0163-8548",
+            "ISSN": "01638548",
+            "abstract": "This introduction to the special issue of Human Studies on postphe- nomenology outlines specific developments which have led to this style of Abstract phenomenology. Postphenomenology adapts aspects of pragmatism, including its anti-Cartesian program against early modern subject/object epistemology. Post- phenomenology retains and emphasizes the use of phenomenological variations as an analytic tool, and in practice postphenomenology takes what is commonly now called \"an empirical turn,\" which deeply analyzes case studies or concrete issues under its purview.",
+            "author": [
+                {
+                    "family": "Ihde",
+                    "given": "Don"
+                }
+            ],
+            "container-title": "Human Studies",
+            "id": "ihdeIntroductionPostphenomenologicalResearch2008",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "keyword": "Empirical turn,Postphenomenology,Pragmatism,Technoscience,Variations",
+            "page": "1-9",
+            "title": "Introduction: Postphenomenological research",
+            "title-short": "Introduction",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "ISBN": "978-0-585-10475-1",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Ihde",
+                    "given": "Don"
+                }
+            ],
+            "id": "ihdeTechnologyLifeworldGarden1990",
+            "issued": {
+                "date-parts": [
+                    [
+                        1990
+                    ]
+                ]
+            },
+            "keyword": "Philosophy; Electronic books,Technology",
+            "language": "en-US",
+            "publisher": "Indiana University Press",
+            "publisher-place": "Bloomington",
+            "title": "Technology and the Lifeworld: From Garden to Earth",
+            "title-short": "Technology and the Lifeworld",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-7391-9436-2",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Rosenberger",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Verbeek",
+                    "given": "Peter-Paul"
+                }
+            ],
+            "collection-title": "Postphenomenology and the Philosophy of Technology",
+            "container-title": "Postphenomenological Investigations: Essays on Human-Technology Relations",
+            "id": "rosenbergerFieldGuidePostphenomenology2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "9-41",
+            "publisher": "Lexington Books",
+            "title": "A Field Guide to Postphenomenology",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1007/s11097-008-9099-x",
+            "ISSN": "1568-7759",
+            "PMID": "8419293",
+            "abstract": "Abstract This article investigates the types of intentionality involved in humantechnology relations. It aims to augment Don Ihdes analysis of the relations between human beings and technological artifacts, by analyzing a number of concrete examples at the limits of Ihdes analysis. The article distinguishes and analyzes three types of cyborg intentionality, which all involve specific blends of the human and the technological. Technologically mediated intentionality occurs when human intentionality takes place through technological artifacts; hybrid intentionality occurs when the technological actually merges with the human; and composite intentionality is the addition of human intentionality and the intentionality of technological artifacts.",
+            "author": [
+                {
+                    "family": "Verbeek",
+                    "given": "Peter Paul"
+                }
+            ],
+            "container-title": "Phenomenology and the Cognitive Sciences",
+            "id": "verbeekCyborgIntentionalityRethinking2008",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "keyword": "Cyborg,Don Ihde,Human-technology relations,Intentionality,Posthumanism",
+            "page": "387-395",
+            "title": "Cyborg intentionality: Rethinking the phenomenology of human-technology relations",
+            "title-short": "Cyborg intentionality",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "abstract": "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Greenberg",
+                    "given": "Karl"
+                }
+            ],
+            "container-title": "TechRepublic",
+            "id": "greenbergBlackHatUSA2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://www.techrepublic.com/article/black-hat-2023-generative-ai-panel/",
+            "title": "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity",
+            "title-short": "Black Hat USA 2023 Panel",
+            "type": ""
+        },
+        {
+            "abstract": "Understanding the capabilities of generative AI and how to use it responsibly for cybersecurity will be critical as the technology grows.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Klimek",
+                    "given": "Peter"
+                }
+            ],
+            "container-title": "VentureBeat",
+            "id": "klimekWhyGenerativeAI2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Why generative AI is a double-edged sword for the cybersecurity sector",
+            "type": ""
+        },
+        {
+            "abstract": "Artificial Intelligence can be a powerful tool to combat cyber threats  or a dangerous cybersecurity risk. We must harness AI responsibly and securely.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Matlali",
+                    "given": "Lindiwe"
+                }
+            ],
+            "container-title": "World Economic Forum",
+            "id": "matlaliCybersecurityAIChallenges2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://www.weforum.org/agenda/2023/06/cybersecurity-and-ai-challenges-opportunities/",
+            "title": "Cybersecurity and AI: The challenges and opportunities",
+            "title-short": "Cybersecurity and AI",
+            "type": ""
+        },
+        {
+            "abstract": "All business leaders in today’s digital world must be knowledgeable about the developments of AI in cybersecurity.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Ravichandran",
+                    "given": "Hari"
+                }
+            ],
+            "chapter-number": "Innovation",
+            "container-title": "Forbes",
+            "id": "ravichandranCouncilPostHow2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-ai-is-disrupting-and-transforming-the-cybersecurity-landscape/",
+            "title": "Council Post: How AI Is Disrupting And Transforming The Cybersecurity Landscape",
+            "title-short": "Council Post",
+            "type": ""
+        },
+        {
+            "abstract": "A man’s victory in a Paris court could set a precedent that Europe’s “right to be forgotten” ruling should apply far more broadly than originally understood.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Scott",
+                    "given": "Mark"
+                }
+            ],
+            "chapter-number": "Technology",
+            "container-title": "Bits Blog",
+            "id": "scottQuestionReachEurope2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://archive.nytimes.com/bits.blogs.nytimes.com/2015/02/01/questions-for-europes-right-to-be-forgotten/",
+            "title": "A Question Over the Reach of Europe’s ’Right to Be Forgotten’",
+            "type": ""
+        },
+        {
+            "abstract": "Learn both the positive and negative impacts of AI on cybersecurity and how organizations are responding to challenges and limitations.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        4
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Segal",
+                    "given": "Eddie"
+                }
+            ],
+            "container-title": "IEEE Computer Society",
+            "id": "segalImpactAICybersecurity2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://www.computer.org/publications/tech-news/trends/the-impact-of-ai-on-cybersecurity/",
+            "title": "The Impact of AI on Cybersecurity",
+            "type": ""
+        },
+        {
+            "URL": "https://www.aclu.org/cases/long-lake-township-v-maxon",
+            "author": [
+                {
+                    "family": "ACLU"
+                }
+            ],
+            "id": "aclu2023drone",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Michigan supreme court case: Drone surveillance",
+            "title-short": "Michigan supreme court case",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://www.aclu.org/cases/fbi-v-fazaga",
+            "author": [
+                {
+                    "family": "ACLU"
+                }
+            ],
+            "id": "aclu2021fbi",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "FBI v. Fazaga: Surveillance on religious grounds",
+            "title-short": "FBI v. Fazaga",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://www.eff.org/deeplinks/2021/09/us-v-wilson-ninth-circuit-reaffirms-fourth-amendment-protection-electronic",
+            "author": [
+                {
+                    "family": "EFF"
+                }
+            ],
+            "id": "eff2022email",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "U.s. Vs. Wilson: Email privacy rights",
+            "title-short": "U.s. Vs. Wilson",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://www.aclu.org/cases/moore-v-united-states",
+            "author": [
+                {
+                    "family": "ACLU"
+                }
+            ],
+            "id": "aclu2022moore",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Moore vs. United states: Unauthorized surveillance technologies",
+            "title-short": "Moore vs. United states",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://www.law360.com/articles/1556661/privacy-litigation-to-watch-in-2023",
+            "author": [
+                {
+                    "family": "Law360"
+                }
+            ],
+            "id": "law3602023litigation",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Privacy litigation to watch in 2023",
+            "type": "webpage"
+        }
+    ],
+    "project_biblios": []
+}
