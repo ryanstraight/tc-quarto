@@ -71,7 +71,8 @@ Follow along with this slide deck at:
 
 {{< qrcode https://ryanstraight.github.io/tc-quarto/index.html qr3 width=200 height=200 >}}
 
-<https://ryanstraight.github.io/tc-quarto/>
+{{< bi github >}} <https://ryanstraight.github.io/tc-quarto/>
+
 :::
 
 ::: {.column width="35%"}
@@ -79,6 +80,9 @@ Follow along with this slide deck at:
 :::
 :::
 
+::: aside
+Access the source files on [{{< bi github >}} GitHub](https://github.com/ryanstraight/tc-quarto/)
+:::
 
 ::: attribution
 Images via [Adobe Firefly](https://firefly.adobe.com).
@@ -214,7 +218,8 @@ Later in the deck!
 ## Research & Publication
 
 The bread and butter.
-We'll be focusing on this for the remainder of the session.
+Easy integration with {{< ai google-scholar-square >}} Google Scholar, {{< ai doi >}} DOI, {{< ai orcid color=green >}} ORCID, and {{< ai zotero-square color=red >}} Zotero.
+We'll be delving deeper into this later.
 It's worth noting here that you can cite references in a slide deck just as you would a document. For example, we might cite @taddeoJustInformationWarfare2016, @klineWhatTechnology1985, and @ihdeTechnologyLifeworldGarden1990, and they would automatically be listed in the References section (@sec-refs).^[And, since we've specified we want to use APA style in the YAML by including `apa.csl`, we know the references are perfectly formatted.]
 First, though...
 
